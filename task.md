@@ -11,7 +11,11 @@
 ### 1.1 На какую аудиторию рассчитываем
 
 * **Возраст:** 14–45 лет — активные пользователи ПК, геймеры, студенты и специалисты цифровых профессий.  
-  [Источник: Исследование аудитории геймеров в РФ 2025 (XYZ School)](https://www.retail.ru/news/173-mlrd-rubley-potratili-rossiyskie-geymery-na-igry-22-yanvarya-2025-259913/)
+ * [Источник: Исследование аудитории геймеров в РФ 2025 (XYZ School)](https://www.retail.ru/news/173-mlrd-rubley-potratili-rossiyskie-geymery-na-igry-22-yanvarya-2025-259913/)
+ * [Источник: Статистика игрового населения 2025/26 (AFFiNCO)](https://affinco.com/ru/gaming-statistics/)
+ * [Источник: Опрос ВЦИОМ и РТ (Как россияне относятся к играм 2024)](https://blog.rt.ru/b2c/kak-rossiyane-otnosyatsya-k-videoigram-i-kakie-vybirayut-chashche-vsego.htm)
+ * [Источник: Аналитика рынка ПК от М.Видео-Эльдорадо (Ведомости)](https://www.vedomosti.ru/technology/articles/2025/02/10/1091052-prodazhi-personalnih-kompyuterov-i-komplektuyuschih-virosli)
+ * [Источник: Тренды рынка настольных ПК 2025 (Yamobi)](https://yamobi.ru/posts/rossiyskiy_ryinok_nastolnyih_pk_padaet_trendyi_i_osobennosti_202.html)
 * **Пол:** Мужчины и женщины, покупающие компьютерное железо, игры и софт для работы с графикой.  
 * **Интересы:** Современные видеоигры, киберспорт, стриминг, 3D-дизайн, видеомонтаж и поиск выгодных предложений («цена/качество»).  
   [Источник: Аналитика рынка высокопроизводительных систем (Habr/М.Видео)](https://habr.com/ru/news/882226/)
