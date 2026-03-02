@@ -10,7 +10,7 @@
 
 ### 1.1 На какую аудиторию рассчитываем
 
-* **кибер спортсмены** Самая массовая аудитория. Согласно исследованию Т-Банка (T-Data) за 2025 год, 61% россиян регулярно играют в видеоигры, а 77% из них выбирают для этого персональный компьютер.[NBJ](https://nbj.ru/publs/bolee_60_rossiyan_regulyarno_igrayut_v_kom/70196/) Портрет типичного геймера: 44% находятся в возрасте 25-44 лет, 41% аудитории — женщин [Портрет современного геймера](https://www.techinsider.ru/news/news-1718155-portret-sovremennogo-geimera-opublikovany-rezultaty-bolshogo-issledovaniya-igrovoi-industrii-v-rossii/)
+* **кибер спортсмены** Самая массовая аудитория. Согласно исследованию Т-Банка (T-Data) за 2025 год, 61% россиян регулярно играют в видеоигры, а 77% из них выбирают для этого персональный компьютер.[NBJ](https://nbj.ru/publs/bolee_60_rossiyan_regulyarno_igrayut_v_kom/70196/) Портрет типичного геймера: 44% находятся в возрасте 25-44 лет, 41% аудитории — женщин [Портрет современного геймера](https://www.tbank.ru/about/news/26082025-t-bank-research-61percent-of-russians-play-computer-games-regularly/)
 * **Дизайнеры (графические, интерьеров, 3D-моделлеры)**
 Требовательная к ресурсам аудитория. Для комфортной работы в профессиональном ПО (ArchiCAD, Blender, Adobe Creative Cloud) специалистам необходимы мощные комплектующие. Эксперты рекомендуют процессоры Intel Core i7/i9 или AMD Ryzen 7/9, от 32 ГБ оперативной памяти и видеокарты уровня NVIDIA RTX [Ноутбук для архитектора](https://rudesignshop.ru/blog/noutbuki-dlya-arhitektorov-i-dizaynerov/) [Выбор компьютера для дизайнера](https://tenchat.ru/media/3704748-vybor-kompyutera-dlya-dizaynera) 
 * **3. Айтишники (IT-специалисты)**
