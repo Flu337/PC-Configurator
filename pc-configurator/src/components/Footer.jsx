@@ -79,7 +79,7 @@ const Footer = () => {
           <nav
             style={{ display: "flex", flexDirection: "column", gap: "10px" }}
           >
-            <a href="https://t.me/твой_ник" style={footerLinkStyle}>
+            <a href="https://t.me/HXG55HXG" style={footerLinkStyle}>
               TELEGRAM
             </a>
             <a href="mailto:work@example.com" style={footerLinkStyle}>
